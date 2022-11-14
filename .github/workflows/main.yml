@@ -43,4 +43,3 @@ jobs:
 #        include: '*.war'
 #        criticality: 'VeryHigh'
 
-has context menu
